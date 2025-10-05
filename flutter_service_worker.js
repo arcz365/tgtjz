@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "e075a9ce1a37829c6b8b7a0a8814315a",
+const RESOURCES = {"flutter_bootstrap.js": "3a9ea2d1aeeb4747d92393a4cb036db7",
 "version.json": "9e2dbd00f7cd683d82814bf2d99ca889",
 "index.html": "8b18411f03a0a89b8f6c1106d7f1bdc8",
 "/": "8b18411f03a0a89b8f6c1106d7f1bdc8",
-"main.dart.js": "a18ea45c4e72420d76ed62112a163779",
+"main.dart.js": "d68ebdff33e84174f7f2dedbacede8ad",
 "flutter.js": "888483df48293866f9f41d3d9274a779",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -22,7 +22,7 @@ const RESOURCES = {"flutter_bootstrap.js": "e075a9ce1a37829c6b8b7a0a8814315a",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "c76cb2a355b1f7eca6aa813f25b45b0d",
-"assets/fonts/MaterialIcons-Regular.otf": "dff616a4c237b5b55a7a288a9ea95eeb",
+"assets/fonts/MaterialIcons-Regular.otf": "164c80b5ae20995fd4c4445d0eca8752",
 "assets/assets/images/Dot%2520recording%2520light%2520red.json": "bf1091a5d14954bbb3048b4282ed5ad6",
 "assets/assets/images/Green%2520Flashing%2520Circle%2520Icon.json": "8778cec60118c980b46bbcde1024c38c",
 "assets/assets/images/Popeye%2520Walking.json": "2055238c6452259173d5032d2414898c",
