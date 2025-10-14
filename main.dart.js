@@ -95656,7 +95656,7 @@ k=A.eL(A.c([A.kF(!1,B.avy,o,o,o,o,o,o,new A.awQ(p),o,A.va(o,o,B.kP,o,o,o,o,o,o,o
 s=A.jX(A.c([p.z3("\u2191",p.p3,0)],n),B.a5,B.cx,B.a8,0)
 r=p.z3("\u2190",0,-p.p3)
 q=A.va(o,o,B.eD,o,o,o,o,o,o,o,o,o,B.N7,o,B.kM,o,o,o,o,o)
-return A.Dh(o,A.eL(A.c([new A.cD(B.lk,m,o),l,new A.cD(B.Nd,A.jX(A.c([k,A.eL(A.c([s,B.by,A.jX(A.c([r,B.Gh,A.kF(!1,A.c5("spdx "+p.p2,o,o,o,B.arj,o,o),o,o,o,o,o,o,p.gahR(),o,q),B.Gh,p.z3("\u2192",0,p.p3)],n),B.a5,B.cx,B.a8,0),B.by,A.jX(A.c([p.z3("\u2193",-p.p3,0)],n),B.a5,B.cx,B.a8,0)],n),B.a5,B.af,B.d1),A.eL(A.c([A.fY(o,90,o)],n),B.a5,B.af,B.d1)],n),B.e4,B.mm,B.a8,0),o)],n),B.a5,B.af,B.a8))}}
+return A.Dh(o,A.eL(A.c([new A.cD(B.lk,m,o),l,new A.cD(B.Nd,A.jX(A.c([k,A.eL(A.c([s,B.by,A.jX(A.c([r,B.Gh,A.kF(!1,A.c5("spd x"+p.p2,o,o,o,B.arj,o,o),o,o,o,o,o,o,p.gahR(),o,q),B.Gh,p.z3("\u2192",0,p.p3)],n),B.a5,B.cx,B.a8,0),B.by,A.jX(A.c([p.z3("\u2193",-p.p3,0)],n),B.a5,B.cx,B.a8,0)],n),B.a5,B.af,B.d1),A.eL(A.c([A.fY(o,90,o)],n),B.a5,B.af,B.d1)],n),B.e4,B.mm,B.a8,0),o)],n),B.a5,B.af,B.a8))}}
 A.awy.prototype={
 $0(){this.a.x.push(this.b)},
 $S:0}
@@ -104902,7 +104902,7 @@ B.Gg=new A.L(-1,-1)
 B.apW=new A.L(77.37,37.9)
 B.aZ=new A.ey(0,0,null,null)
 B.apY=new A.ey(20,null,null,null)
-B.Gh=new A.ey(7,null,null,null)
+B.Gh=new A.ey(5,null,null,null)
 B.Gi=new A.ey(1/0,1/0,null,null)
 B.azP=new A.ar0(0,"material")
 B.JU=new A.zo(2,null)
