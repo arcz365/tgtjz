@@ -96203,11 +96203,11 @@ r.WW(new A.a4S(s,14))},
 $S:0}
 A.ax5.prototype={
 $2(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=null
-if(b.b<350){s=40
-r=50
+if(b.b<500){s=20
+r=20
 q=50
 p=40
-o=28}else{s=50
+o=20}else{s=50
 r=60
 q=60
 p=50
