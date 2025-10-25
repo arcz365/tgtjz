@@ -95476,14 +95476,14 @@ break
 case 6:case 1:return A.t(q,r)
 case 2:return A.r(o.at(-1),r)}})
 return A.u($async$zf,r)},
-N(a){var s=this,r=null,q=A.a3J(B.nB,B.awp),p=A.xb(s.d,A.aGN(r,new A.hM(4,A.di(12),B.hX),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Write news here...",r,r,r,r,r,r,r,r,r,!0,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r),3,!1),o=A.m6(B.Oe,B.awi,s.gan7(),A.fX(r,r,B.b4,r,r,r,r,r,r,r,r,r,B.ir,r,new A.c2(A.di(12),B.q),r,r,r,r,r)),n=A.m6(B.Od,B.awv,s.gacw(),A.fX(r,r,B.dg,r,r,r,r,r,r,r,r,r,B.ir,r,new A.c2(A.di(12),B.q),r,r,r,r,r)),m=A.xb(s.e,A.aGN(r,new A.hM(4,A.di(12),B.hX),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Enter name for the image",r,r,r,r,r,r,r,r,r,!0,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r),1,!1),l=A.m6(B.Oi,B.awD,s.galk(),r),k=s.z,j=k?r:s.gapj(),i=k?B.aqp:B.O8,h=t.p
-h=A.c([B.Oc,B.bR,B.awO,B.GJ,p,B.dW,o,B.cJ,n,B.bR,m,B.cJ,A.hO(A.c([l,B.GD,A.m6(i,A.bD(k?"Uploading...":"Upload",r,r,r,r,r,r),j,r)],h),B.R,B.bK,B.U,0),B.dW],h)
+N(a){var s=this,r=null,q=A.a3J(B.nB,B.awp),p=A.xb(s.d,A.aGN(r,new A.hM(4,A.di(12),B.hX),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Write news here...",r,r,r,r,r,r,r,r,r,!0,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r),3,!1),o=A.m6(B.Oe,B.awi,s.gan7(),A.fX(r,r,B.b4,r,r,r,r,r,r,r,r,r,B.ir,r,new A.c2(A.di(12),B.q),r,r,r,r,r)),n=A.m6(B.Od,B.awv,s.gacw(),A.fX(r,r,B.dg,r,r,r,r,r,r,r,r,r,B.ir,r,new A.c2(A.di(12),B.q),r,r,r,r,r)),m=A.xb(s.e,A.aGN(r,new A.hM(4,A.di(12),B.hX),r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,r,"Enter name for the image",r,r,r,r,r,r,r,r,r,!0,!0,r,r,r,r,r,r,r,r,r,r,r,r,r,r),1,!1),l=A.m6(B.Oi,B.awE,s.galk(),r),k=s.z,j=k?r:s.gapj(),i=k?B.aqp:B.O8,h=t.p
+h=A.c([B.Oc,B.bR,B.awP,B.GJ,p,B.dW,o,B.cJ,n,B.bR,m,B.cJ,A.hO(A.c([l,B.GD,A.m6(i,A.bD(k?"Uploading...":"Upload",r,r,r,r,r,r),j,r)],h),B.R,B.bK,B.U,0),B.dW],h)
 p=s.x
 if(p!=null)h.push(A.bD("Selected: "+p.b,r,r,r,r,r,r))
 h.push(B.bR)
 h.push(A.m6(B.Og,B.aww,s.gacv(),A.fX(r,r,B.bP,r,r,r,r,r,r,r,r,r,B.ir,r,new A.c2(A.di(12),B.q),r,r,r,r,r)))
 h.push(B.GI)
-h.push(A.m6(B.O9,B.awI,new A.arm(a),A.fX(r,r,B.dg,r,r,r,r,r,r,r,r,r,B.ir,r,new A.c2(A.di(12),B.q),r,r,r,r,r)))
+h.push(A.m6(B.O9,B.awJ,new A.arm(a),A.fX(r,r,B.dg,r,r,r,r,r,r,r,r,r,B.ir,r,new A.c2(A.di(12),B.q),r,r,r,r,r)))
 return A.DF(q,A.S0(A.kM(r,A.dX(h,B.R,B.Z,B.U),B.F,B.ft,r,r,r,r,r,B.iq,r,r,1/0)))}}
 A.aro.prototype={
 $1(a){var s=this.a
@@ -95622,7 +95622,7 @@ m=s}else m=B.aqr
 m=A.hO(A.c([n,B.dV,m,B.dV,r.kS("5",120,120)],p),B.R,B.bK,B.U,0)
 n=A.hO(A.c([r.kS("6",120,120),B.dV,r.kS("7",120,120),B.dV,r.kS("8",120,120)],p),B.R,B.bK,B.U,0)
 s=r.e
-p=A.c([A.S0(A.dX(A.c([B.bR,o,B.bR,m,B.bR,n,B.GJ,A.fT(A.l1(q,new A.zb(A.kM(q,B.aw6,B.F,q,q,new A.eA(B.df,q,q,A.di(12),B.Qb,q,B.br),q,q,q,B.Nr,q,q,q),s,B.ah,B.aZ,q,q),B.av,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,r.gajv(),q,q,q,q,q,q),q,q),B.GG],p),B.R,B.Z,B.U)),A.oR(q,A.m6(B.Oa,B.awK,r.ganD(),A.fX(q,q,B.dg,q,q,q,q,q,q,q,q,q,q,q,new A.c2(A.di(10),B.q),q,q,q,q,q)),q,q,10,q,10,q)],p)
+p=A.c([A.S0(A.dX(A.c([B.bR,o,B.bR,m,B.bR,n,B.GJ,A.fT(A.l1(q,new A.zb(A.kM(q,B.aw6,B.F,q,q,new A.eA(B.df,q,q,A.di(12),B.Qb,q,B.br),q,q,q,B.Nr,q,q,q),s,B.ah,B.aZ,q,q),B.av,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,q,r.gajv(),q,q,q,q,q,q),q,q),B.GG],p),B.R,B.Z,B.U)),A.oR(q,A.m6(B.Oa,B.awL,r.ganD(),A.fX(q,q,B.dg,q,q,q,q,q,q,q,q,q,q,q,new A.c2(A.di(10),B.q),q,q,q,q,q)),q,q,10,q,10,q)],p)
 o=r.w
 if(o.ap(0,"9"))p.push(A.oR(10,r.kS("9",80,80),q,q,10,q,q,q))
 if(o.ap(0,"10"))p.push(A.oR(10,r.kS("10",80,80),q,q,q,10,q,q))
@@ -95743,7 +95743,7 @@ N(a){var s=this,r=null
 return A.DF(A.a3J(r,A.bD(s.w?"Sign Up":"Sign In",r,r,r,r,r,r)),new A.cR(B.iq,A.S0(A.dX(A.c([A.xb(s.d,B.OI,1,!1),B.dW,A.xb(s.e,B.OM,1,!0),B.bR,s.aau(),B.dW,s.aaK(),B.dW,s.aaI()],t.p),B.R,B.Z,B.U)),r))},
 aau(){var s=this,r=null
 if(!s.w)return A.dX(A.c([A.im(!1,B.awZ,r,r,r,r,r,r,s.ganF(),r,r),B.dW,A.im(!1,B.Hb,r,r,r,r,r,r,new A.asd(s),r,r)],t.p),B.R,B.Z,B.U)
-else return A.im(!1,B.awH,r,r,r,r,r,r,s.y?s.ganG():r,r,r)},
+else return A.im(!1,B.awI,r,r,r,r,r,r,s.y?s.ganG():r,r,r)},
 aaK(){var s=this,r=null
 if(s.w&&!s.x)return A.im(!1,B.awW,r,r,r,r,r,r,new A.asm(s),r,r)
 if(s.x)return s.aaJ()
@@ -95751,7 +95751,7 @@ return B.aR},
 aaI(){var s=null
 return A.l1(s,A.bD(this.w?"Already have an account? Sign In":"Don't have an account? Create one",s,s,s,B.at_,s,s),B.av,!1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,new A.asg(this),s,s,s,s,s,s)},
 aaJ(){var s=null,r=A.di(12),q=A.aKh(B.pY),p=t.p
-return A.kM(s,A.dX(A.c([A.eJ(A.aHk(A.S0(B.awQ),s,!0),250,s),A.hO(A.c([new A.zM(this.y,new A.asj(this),s),B.NM],p),B.R,B.Z,B.U,0),B.cJ,new A.fo(B.kH,s,s,A.im(!1,B.oE,s,s,s,s,s,s,new A.ask(this),s,s),s)],p),B.bu,B.Z,B.U),B.F,s,s,new A.eA(B.q2,s,q,r,s,s,B.br),s,s,B.Nc,B.iq,s,s,s)},
+return A.kM(s,A.dX(A.c([A.eJ(A.aHk(A.S0(B.awC),s,!0),250,s),A.hO(A.c([new A.zM(this.y,new A.asj(this),s),B.NM],p),B.R,B.Z,B.U,0),B.cJ,new A.fo(B.kH,s,s,A.im(!1,B.oE,s,s,s,s,s,s,new A.ask(this),s,s),s)],p),B.bu,B.Z,B.U),B.F,s,s,new A.eA(B.q2,s,q,r,s,s,B.br),s,s,B.Nc,B.iq,s,s,s)},
 aay(){var s=null,r=A.eJ(A.S0(A.dX(B.Qo,B.bu,B.Z,B.U)),s,17976931348623157e292)
 return A.kz(A.c([A.i0(B.oE,new A.ase(this),s)],t.p),s,r,s,B.Hb)},
 anz(a,b){var s=this.c
@@ -96682,7 +96682,7 @@ s.k3=s.k3+this.b},
 $S:0}
 A.axf.prototype={
 $1(a){var s=null,r=A.bD("You earned "+this.a+" coins!",s,s,s,s,s,s)
-return A.kz(A.c([A.i0(B.Hc,new A.awY(a),s)],t.p),s,r,s,B.awC)},
+return A.kz(A.c([A.i0(B.Hc,new A.awY(a),s)],t.p),s,r,s,B.awD)},
 $S:50}
 A.awY.prototype={
 $0(){A.dE(this.a,!1).hU(null)
@@ -96832,7 +96832,7 @@ $S:0}
 A.ax7.prototype={
 $1(a){var s=null,r=J.aP(this.a,"news")
 r=A.bD(r==null?"No news available":r,s,s,s,s,s,s)
-return A.kz(A.c([A.i0(B.awN,new A.awK(a),s)],t.p),s,r,s,B.awa)},
+return A.kz(A.c([A.i0(B.awO,new A.awK(a),s)],t.p),s,r,s,B.awa)},
 $S:50}
 A.awK.prototype={
 $0(){A.dE(this.a,!1).hU(null)
@@ -97172,7 +97172,7 @@ N(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g="timestamp",f="orderByChild",e=i.e,
 if(d==null)d="No file selected"
 e=A.a3J(h,B.awB)
 s=t.p
-r=A.hO(A.c([A.eJ(A.m6(B.Oh,B.awJ,i.gazo(),A.fX(h,h,B.pV,h,h,h,h,h,h,B.m,h,h,B.aj,h,new A.c2(A.di(12),B.q),h,h,h,h,h)),50,150),B.GD,A.eJ(A.m6(B.Ob,B.awd,i.gazp(),A.fX(h,h,B.lc,h,h,h,h,h,h,B.n,h,h,B.aj,h,new A.c2(A.di(12),B.q),h,h,h,h,h)),50,150)],s),B.R,B.bK,B.U,0)
+r=A.hO(A.c([A.eJ(A.m6(B.Oh,B.awK,i.gazo(),A.fX(h,h,B.pV,h,h,h,h,h,h,B.m,h,h,B.aj,h,new A.c2(A.di(12),B.q),h,h,h,h,h)),50,150),B.GD,A.eJ(A.m6(B.Ob,B.awd,i.gazp(),A.fX(h,h,B.lc,h,h,h,h,h,h,B.n,h,h,B.aj,h,new A.c2(A.di(12),B.q),h,h,h,h,h)),50,150)],s),B.R,B.bK,B.U,0)
 q=A.bD("Selected: "+d,h,h,h,h,h,h)
 p=A.xb(i.r,B.OL,1,!1)
 o=i.y
@@ -106137,30 +106137,30 @@ B.aqC=new A.ls(3,"hide")
 B.aAC=new A.ls(4,"remove")
 B.GL=new A.ls(5,"timeout")
 B.aqD=new A.x_(null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.awE=new A.b6("Invalid format. Use: branch,latitude,longitude,coins,news",null,null,null,null,null,null,null,null)
-B.aqE=new A.ee(B.awE,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
+B.awF=new A.b6("Invalid format. Use: branch,latitude,longitude,coins,news",null,null,null,null,null,null,null,null)
+B.aqE=new A.ee(B.awF,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
 B.aw7=new A.b6("Please enter a name for the image.",null,null,null,null,null,null,null,null)
 B.aqF=new A.ee(B.aw7,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
-B.awP=new A.b6("Please pick a file first.",null,null,null,null,null,null,null,null)
-B.aqG=new A.ee(B.awP,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
+B.awQ=new A.b6("Please pick a file first.",null,null,null,null,null,null,null,null)
+B.aqG=new A.ee(B.awQ,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
 B.awA=new A.b6("\u2705 Hotspot added",null,null,null,null,null,null,null,null)
 B.aqH=new A.ee(B.awA,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
 B.awe=new A.b6("News cannot be empty!",null,null,null,null,null,null,null,null)
 B.aqI=new A.ee(B.awe,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
 B.awh=new A.b6("Invalid data. Example: Park,52.52,13.40,100",null,null,null,null,null,null,null,null)
 B.aqJ=new A.ee(B.awh,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
-B.awL=new A.b6("News deleted successfully!",null,null,null,null,null,null,null,null)
-B.aqK=new A.ee(B.awL,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
+B.awM=new A.b6("News deleted successfully!",null,null,null,null,null,null,null,null)
+B.aqK=new A.ee(B.awM,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
 B.aw9=new A.b6("\u2705 Hidden Circle added",null,null,null,null,null,null,null,null)
 B.aqL=new A.ee(B.aw9,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
 B.awt=new A.b6("Please enter the GIF name to delete.",null,null,null,null,null,null,null,null)
 B.aqM=new A.ee(B.awt,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
-B.awF=new A.b6("Invalid data. Example: Berlin,52.52,13.40,100,New cafe",null,null,null,null,null,null,null,null)
-B.aqN=new A.ee(B.awF,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
-B.awM=new A.b6("Please pick an image first.",null,null,null,null,null,null,null,null)
-B.aqO=new A.ee(B.awM,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
-B.awG=new A.b6("\u2705 Upload successful",null,null,null,null,null,null,null,null)
-B.aqP=new A.ee(B.awG,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
+B.awG=new A.b6("Invalid data. Example: Berlin,52.52,13.40,100,New cafe",null,null,null,null,null,null,null,null)
+B.aqN=new A.ee(B.awG,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
+B.awN=new A.b6("Please pick an image first.",null,null,null,null,null,null,null,null)
+B.aqO=new A.ee(B.awN,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
+B.awH=new A.b6("\u2705 Upload successful",null,null,null,null,null,null,null,null)
+B.aqP=new A.ee(B.awH,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
 B.awo=new A.b6("News sent successfully!",null,null,null,null,null,null,null,null)
 B.aqQ=new A.ee(B.awo,null,null,null,null,null,null,null,null,null,null,null,null,B.a_,null,null,null,B.v,null)
 B.awb=new A.b6("Invalid format. Use: place,latitude,longitude,coins",null,null,null,null,null,null,null,null)
@@ -106567,17 +106567,17 @@ B.awv=new A.b6("Delete News",null,null,null,null,null,null,null,null)
 B.aww=new A.b6("Delete GIF",null,null,null,null,null,null,null,null)
 B.awz=new A.b6("Exit",null,null,null,null,null,null,null,null)
 B.awB=new A.b6("Upload Image/Video & Hotspot",null,null,null,null,null,null,null,null)
-B.awC=new A.b6("Hidden Circle Found!",null,null,null,null,null,null,null,null)
-B.awD=new A.b6("Pick Image",null,null,null,null,null,null,null,null)
-B.awH=new A.b6("Sign Up",null,null,null,null,null,null,null,null)
-B.awI=new A.b6("Log out",null,null,null,null,null,null,null,null)
-B.awJ=new A.b6("Pick Image",null,B.oD,null,null,null,null,null,null)
-B.awK=new A.b6("Winners",null,null,null,null,null,null,null,null)
-B.awN=new A.b6("Dismiss",null,null,null,null,null,null,null,null)
-B.atF=new A.z(!0,B.nB,null,null,null,null,26,B.bw,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.awO=new A.b6("Welcome, ARCZ-CEO \ud83d\udc51",null,B.atF,null,null,null,null,null,null)
 B.aun=new A.z(!0,null,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.awQ=new A.b6("Terms & Conditions\n\n1. This is a beta version of the game to promote activity.\n2. ARCZ is not responsible for data loss or rewards.\n3. Coins may become real cryptocurrency rewards.\n4. Reaching Uluru may bring big prizes $10,000\u2013$100,000.\n",null,B.aun,null,null,null,null,null,null)
+B.awC=new A.b6("Terms & Conditions\n\n1. This is a beta version of the game to promote activity.\n2. ARCZ is not responsible for data loss or rewards.\n3. Coins may become real cryptocurrency rewards.\n4. Reaching Uluru may bring big prizes $1,000\u2013$10,000.\n",null,B.aun,null,null,null,null,null,null)
+B.awD=new A.b6("Hidden Circle Found!",null,null,null,null,null,null,null,null)
+B.awE=new A.b6("Pick Image",null,null,null,null,null,null,null,null)
+B.awI=new A.b6("Sign Up",null,null,null,null,null,null,null,null)
+B.awJ=new A.b6("Log out",null,null,null,null,null,null,null,null)
+B.awK=new A.b6("Pick Image",null,B.oD,null,null,null,null,null,null)
+B.awL=new A.b6("Winners",null,null,null,null,null,null,null,null)
+B.awO=new A.b6("Dismiss",null,null,null,null,null,null,null,null)
+B.atF=new A.z(!0,B.nB,null,null,null,null,26,B.bw,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.awP=new A.b6("Welcome, ARCZ-CEO \ud83d\udc51",null,B.atF,null,null,null,null,null,null)
 B.kf=new A.b6("Yes",null,null,null,null,null,null,null,null)
 B.Hc=new A.b6("OK",null,null,null,null,null,null,null,null)
 B.awU=new A.b6("Go to Map",null,null,null,null,null,null,null,null)
